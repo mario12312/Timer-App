@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Variable Dimentions-->
+    <dimen name="selectable_min_height">48dp</dimen>
+    <dimen name="margin_top_small">8dp</dimen>
+    <dimen name="margin_vertical_profile">16dp</dimen>
+    <dimen name="margin_start_profile">16dp</dimen>
+    <dimen name="margin_end_profile">16dp</dimen>
+    <dimen name="later_margin_top">32dp</dimen>
+    <dimen name="field_profile_height">80dp</dimen>
+    <dimen name="margin_top_pin">104dp</dimen>
+
+    <dimen name="button_width">192dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+
+    <dimen name="small_text_size">16dp</dimen>
+    <dimen name="medium_text_size">24dp</dimen>
+    <dimen name="large_text_size">32dp</dimen>
+</resources>

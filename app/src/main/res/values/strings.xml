@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="timer">Timer screen</string>
+    <string name="list">Users</string>
+    <string name="listofusers">List View screen</string>
+    <string name="logout">Logout</string>
+
+    <string name="userdetails">User Details</string>
+    <string name="are_you_sure_to_exit">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

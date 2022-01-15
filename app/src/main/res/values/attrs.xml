@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BaseButton">
+        <attr name="buttonType" format="enum">
+            <enum name="filled" value="0"/>
+            <enum name="outline" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <attr name="textInputStyle" format="reference"/>
+    <attr name="checkBoxStyle" format="reference"/>
+
+    <declare-styleable name="TextInput">
+        <attr name="android:hint"/>
+        <attr name="android:inputType"/>
+        <attr name="android:minHeight"/>
+    </declare-styleable>
+</resources>
